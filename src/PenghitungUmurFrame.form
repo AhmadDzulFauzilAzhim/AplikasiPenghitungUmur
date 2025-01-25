@@ -72,10 +72,8 @@
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
                       <Component id="dateChooserTanggalLahir" min="-2" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="bthHitung" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
-                          <Component id="btnKeluar" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
-                      </Group>
+                      <Component id="btnKeluar" alignment="0" min="-2" pref="25" max="-2" attributes="0"/>
+                      <Component id="bthHitung" min="-2" pref="25" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
